@@ -1,4 +1,4 @@
-package swithcfunc
+package switchfunc
 
 import (
 	"fmt"
